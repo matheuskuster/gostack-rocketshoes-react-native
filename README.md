@@ -1,60 +1,74 @@
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+    <img alt="GoStack" src="./.github/Rocketshoes_Mobile.png" width="auto"  />
+    <br />
+    RocketShoes React Native
 </h1>
 
-<h3 align="center">
-  Challenge 7: Flux Architecture
-</h3>
-
-<blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
+<h4 align="center">
+  Shoes Store App using React Native and Redux.
+</h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-07?color=%2304D361">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheuskuster/gostack-rocketshoes-react-native.svg">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheuskuster/gostack-rocketshoes-react-native.svg">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-rocketshoes-react-native.svg">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-07/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-07?style=social">
-  </a>
+  <br/>
+
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+<img src="./.github/demo.gif" alt="App Gif" height="500">
 </p>
 
-## :rocket: Sobre o desafio | About the Challenge
+## :rocket: Technologies
 
-Nesse desafio devemos migrar o projeto de e-commerce criado na <a href="https://github.com/matheuskuster/rocketshoes">web</a> para dispositivos móveis utilizando React Native. O projeto terá as mesmas funcionalidades que o projeto web mas deve possuir uma interface mobile.
+This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
-In this challenge we have to migrate the <a href="https://github.com/matheuskuster/rocketshoes">web-based</a> e-commerce project to mobile using React Native. The project will have the same functionality as the web project but must have a mobile interface.
+- [ReactJS](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Redux-Saga](https://redux-saga.js.org/)
+- [React Navigation](https://reactnavigation.org/)
+- [Axios](https://github.com/axios/axios)
+- [Immer](https://github.com/immerjs/immer)
+- [NumeralJS](http://numeraljs.com/)
+- [styled-components](https://www.styled-components.com/)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [react-native-shimmer-placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder)
+- [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
+- [Reactotron](https://infinite.red/reactotron)
+- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
+## :information_source: How To Use
 
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
-### Um pouco sobre as ferramentas | About the tools
+```bash
+# Clone this repository
+$ git clone https://github.com/matheuskuster/gostack-rocketshoes-react-native
 
-Usamos ESLint, Prettier, EditorConfig, React Navigation e todas outras ferramentas que vimos até aqui no mundo do React Native.
+# Go into the repository
+$ cd gostack-rocketshoes-react-native
 
-We used ESLint, Prettier, EditorConfig, React Navigation and all the other tools we've seen so far in the React Native world.
+# Install dependencies
+$ yarn install
 
-### Layout
+# Start Metro server
+$ yarn start
 
-O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no diretório `.github`) pode ser aberto no Figma, que é uma ferramenta de prototipação online.
+# Run in Android
+$ react-native run-android
 
-The project layout is attached with this challenge. The `.sketch` file (in the` .github` directory) can be opened in Figma, which is an online prototyping tool.
+# Run in iOS
+$ react-native run-ios
+```
 
-### Resultado | Result
+## :memo: License
 
-<img src=".github/demo.gif" height="400">
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-rocketshoes-react/blob/master/LICENSE) for more information.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Matheus Kuster :wave: [Get in touch!](https://www.linkedin.com/in/matheus-kuster/)
