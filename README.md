@@ -39,11 +39,11 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [react-native-shimmer-placeholder](https://github.com/tomzaku/react-native-shimmer-placeholder)
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
 - [Reactotron](https://infinite.red/reactotron)
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/) and [ESLint](https://eslint.org/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org) or higher, [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -67,7 +67,7 @@ $ react-native run-ios
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-rocketshoes-react/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-rocketshoes-react-native/blob/master/LICENSE) for more information.
 
 ---
 
